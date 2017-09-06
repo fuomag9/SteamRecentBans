@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64500143788",
+    "firebase_url": "https://steamrecentbans.firebaseio.com",
+    "project_id": "steamrecentbans",
+    "storage_bucket": "steamrecentbans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64500143788:android:d6cbd3cc128e197d",
+        "android_client_info": {
+          "package_name": "com.fuomag9.steamrecentbans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64500143788-5c6a4tkkberp60di2ho6h7s7s4a50miu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuomag9.steamrecentbans",
+            "certificate_hash": "d9fe20f1a3c3d7927c3c27f8ca83b6977733d10f"
+          }
+        },
+        {
+          "client_id": "64500143788-c13d975ulk5go0qj4gk861l7076t9ctv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuQpSdtFLlLdPfwjxpj5Bw4yvT5P8Mpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64500143788-c13d975ulk5go0qj4gk861l7076t9ctv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
